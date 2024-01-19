@@ -1,0 +1,107 @@
+.container{
+    display: flex;
+     justify-content: right;
+    /* background-color: aqua; */
+}
+.container, .contant{
+    align-items: center;
+    justify-content: space-around;
+}
+.contant{
+    display: flex;
+    justify-content: center;
+}
+.text-aline{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text-aline, .student{
+    color: #131318;
+    text-align: center;
+    font-family: Mulish;
+    /* font-size: 2.5rem; */
+    font-style: normal;
+    /* font-weight: 800; */
+    line-height: normal;
+}
+.text-aline,  .text-greey{
+    justify-content: space-between;
+    margin: 40px;
+}
+.reporter{
+    /* display: flex; */
+    justify-content: center;
+}
+.tumi{
+    display: flex;
+    gap: 20px;
+}
+.reper{
+    width: 100%;
+}
+.ttoper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ttoper, .h3{
+    justify-content: center;
+}
+.animetion{
+    display: flex;
+    border-radius: 1rem;
+    border: 2px solid lightseagreen;
+    width: 50%;
+    background-color: rgb(255, 242, 174);
+    margin: 30px;
+}
+.tittle-banner{
+    display: flex;
+    border-radius: 1rem;
+    border: 2px solid red;
+    width: 50%;
+    background-color: rgb(184, 240, 255);
+    justify-content: space-between;
+    margin: 30px;
+
+    gap: 20px;
+}
+.banner-discription{
+     border: 3px solid yellow;
+     width: 50%;
+     background-color: ;
+    border-radius: 1rem;
+     margin: 30px;
+}
+.travel-section{
+    display: flex;
+    margin: 40px;
+}
+.btn-banner{
+    display: flex;
+    /* border: 2px solid navy; */
+    /* border-radius: 1rem; */
+    background-color: rgb(255, 170, 0);
+    margin: 30px;
+}
+.project{
+    border-radius: 1rem;
+    border: 1px solid #FF5400;
+    width: 30%;
+}
+.btn-topper{
+    background-color: #FF5400;
+}
+.user-text{
+    margin: 30px;
+    justify-content: center;
+}
+ .footer-sec, .nev-top{
+    align-items: center;
+    justify-content: center;
+    margin: 50%;
+ }
+ .footer-sec, .viewport{
+    justify-content: center;
+ }
